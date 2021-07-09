@@ -32,11 +32,14 @@
         <br><br><br>
         <div id="container">
             <div id="sideBar">
-                
             </div>
             <div id="content">
-                
-                <img src="img/home_icon.jpg" alt="" style="height: 100%;">
+                <div>
+                    <?php
+                    include("schedule.php");
+                    ?>
+                </div>
+
             </div>
         </div>
 

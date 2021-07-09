@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -32,17 +33,22 @@
         <br><br><br>
         <div id="container">
             <div id="sideBar">
-                
+                sidebar
             </div>
             <div id="content">
-                
-                <img src="img/home_icon.jpg" alt="" style="height: 100%;">
+                content
             </div>
         </div>
 
         <div id="footer">
             <p><b>Smallwind</b> @ Asia University <br>
                 Email: <a href="mailto:108021004@gm.asia.edu.tw">108021004@gm.asia.edu.tw</a>
+            </p>
+        </div>
+    </div>
+</body>
+
+</html>108021004@gm.asia.edu.tw</a>
             </p>
         </div>
     </div>

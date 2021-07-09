@@ -32,11 +32,20 @@
         <br><br><br>
         <div id="container">
             <div id="sideBar">
-                
+
             </div>
             <div id="content">
-                
-                <img src="img/home_icon.jpg" alt="" style="height: 100%;">
+                <table>
+                    <tr>
+                        <form action="test.php">
+                            <td>
+                                <pre>number : </pre>
+                            </td>
+                            <td><input type="text" name="val"></td>
+                            <td><input type="submit" value="Submit"></td>
+                        </form>
+                    </tr>
+                </table>
             </div>
         </div>
 

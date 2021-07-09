@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -32,11 +33,34 @@
         <br><br><br>
         <div id="container">
             <div id="sideBar">
-                
+
             </div>
             <div id="content">
-                
-                <img src="img/home_icon.jpg" alt="" style="height: 100%;">
+                <table>
+                    <form action="loginCheck.php" method="POST">
+                        <tr>
+                            <td>
+                                <label for="email">email :</label>
+                            </td>
+                            <td>
+                                <input type="email" name="email" placeholder="Enter email">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="passwd">password :</label>
+                            </td>
+                            <td>
+                                <input type="password" name="passwd" placeholder="Enter password">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                <input type="submit" value="login">
+                            </td>
+                        </tr>
+                    </form>
+                </table>
             </div>
         </div>
 
