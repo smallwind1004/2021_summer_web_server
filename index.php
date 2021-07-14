@@ -16,7 +16,7 @@
             <div id="logo">
                 <img src="img/logo.jpg" alt="">
             </div>
-            <div id="title" style="margin-top: 10px;">挖喜曉風</div>
+            <div id="title" style="margin-top: 10px;">挖喜曉風(PHP)</div>
         </div>
 
         <div id="navBar">
